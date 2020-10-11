@@ -17,7 +17,8 @@
     "pdf builder",
     "slides builder",
     "markdown to pdf",
-    "markdown to slides"
+    "markdown to slides",
+    "conversor"
   ],
   "author": "Ederson Ferreira",
   "license": "MIT",
